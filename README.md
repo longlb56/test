@@ -10,3 +10,6 @@ hot fix 0.1.0
 
 hot fix 0.1.1
 minor bugs fixed
+
+add install button
+set anchor for install button
