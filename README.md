@@ -17,3 +17,5 @@ set anchor for install button
 release 0.1.3
 
 update Halloween theme
+
+release 0.2.0
