@@ -5,3 +5,5 @@ update firebase analytic
 update firebase remote config
 
 hotfix firebase
+hotfix firebase 1
+
