@@ -3,3 +3,7 @@ update firebase to 12.1.0
 
 update firebase analytic
 update firebase remote config
+
+hotfix firebase
+hotfix firebase 1
+
